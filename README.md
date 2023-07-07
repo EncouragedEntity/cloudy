@@ -1,2 +1,2 @@
-# cloudy
+# Cloudy
 Flutter weather app
